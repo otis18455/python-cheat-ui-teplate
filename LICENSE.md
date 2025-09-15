@@ -1,8 +1,8 @@
-# Otis UI Template License (OUI-1.0)
+#UI Template License (OUI-1.0)
 
 **Summary:**  
 You can freely use, modify, and distribute this UI template (the "Template").  
-- ✅ Credit **must** be given to **Otis Vriesacker** (unless waived).  
+- ✅ Credit **must** be given to **Otis/larry** (unless waived).  
 - ✅ You **may** sell products that include the Template (including cheats or other software).  
 - ❌ You **may not** sell the Template itself as a standalone UI template or design.  
 - ❌ You may not use it for malware, spyware, or illegal activity.  
@@ -12,7 +12,7 @@ You can freely use, modify, and distribute this UI template (the "Template").
 
 ## Full License Text
 
-Copyright (c) 2025 **Otis Vriesacker**
+Copyright (c) 2025 **Otis/larry**
 
 Permission is granted, free of charge, to any person obtaining a copy of this UI template and associated files (the "Template"), to use, copy, modify, and distribute the Template under the following conditions:
 
