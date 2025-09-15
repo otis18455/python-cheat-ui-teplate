@@ -6,7 +6,7 @@ Stylish sidebar navigation (Dashboard, Aimbot, Visuals, Settings, Logs)
 
 Custom toggle switches, sliders, and styled buttons
 
-User card with avatar + greeting (e.g., “Welkom terug Otis Vr”)
+User card with avatar + greeting (e.g., “Welkom back °USERNAME°”)
 
 Activity/console panel for displaying fake logs
 
