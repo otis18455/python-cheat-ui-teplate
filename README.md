@@ -25,3 +25,4 @@ pip install pyqt5
 python cheat_ui_demo.py
 
 📖 License
+READ LICENSE.md
